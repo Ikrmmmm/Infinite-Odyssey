@@ -1,6 +1,6 @@
 /* General Styles */
 body {
-    font-family: Arial, sans-serif;
+    font-family: Forum, sans-serif;
     margin: 0;
     padding: 0;
     background-color: #fff;
@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background-color: #c0392b; /* Red Color */
+    background-color: #9e1b32; /* Red Color */
     color: #fff;
     padding: 20px;
     text-align: center;
