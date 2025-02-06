@@ -6,7 +6,10 @@ body {
     background-color: #fff;
     color: #333;
 }
-
+img {
+  max-width: 100%;
+  height: auto;
+}
 header {
     background-color: #9e1b32; /* Red Color */
     color: #fff;
